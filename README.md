@@ -1,1 +1,1 @@
-# GitHub Actions Lab 1
+# GitLab actions lab 1
